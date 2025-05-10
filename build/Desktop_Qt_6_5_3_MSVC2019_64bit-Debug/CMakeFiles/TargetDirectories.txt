@@ -1,0 +1,8 @@
+D:/code/qtcode/lappet/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/lappet.dir
+D:/code/qtcode/lappet/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/code/qtcode/lappet/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/code/qtcode/lappet/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+D:/code/qtcode/lappet/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+D:/code/qtcode/lappet/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+D:/code/qtcode/lappet/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/lappet_autogen_timestamp_deps.dir
+D:/code/qtcode/lappet/build/Desktop_Qt_6_5_3_MSVC2019_64bit-Debug/CMakeFiles/lappet_autogen.dir

@@ -1,0 +1,85 @@
+<RCC>
+    <qresource prefix="/witch2">
+        <file>witch2/图层 2.png</file>
+        <file>witch2/图层 3.png</file>
+        <file>witch2/图层 4.png</file>
+        <file>witch2/图层 5.png</file>
+        <file>witch2/图层 6.png</file>
+        <file>witch2/图层 7.png</file>
+        <file>witch2/图层 8.png</file>
+        <file>witch2/图层 9.png</file>
+        <file>witch2/图层 10.png</file>
+        <file>witch2/图层 11.png</file>
+        <file>witch2/图层 12.png</file>
+        <file>witch2/图层 13.png</file>
+        <file>witch2/图层 14.png</file>
+        <file>witch2/图层 15.png</file>
+        <file>witch2/图层 16.png</file>
+        <file>witch2/图层 1.png</file>
+    </qresource>
+    <qresource prefix="/fire">
+        <file>fire/图层 2.png</file>
+        <file>fire/图层 3.png</file>
+        <file>fire/图层 4.png</file>
+        <file>fire/图层 5.png</file>
+    </qresource>
+    <qresource prefix="/particle">
+        <file>particle/图层 2.png</file>
+        <file>particle/图层 3.png</file>
+        <file>particle/图层 4.png</file>
+        <file>particle/图层 5.png</file>
+        <file>particle/图层 6.png</file>
+    </qresource>
+    <qresource prefix="/act">
+        <file>act/图层 2.png</file>
+        <file>act/图层 3.png</file>
+        <file>act/图层 4.png</file>
+        <file>act/图层 5.png</file>
+        <file>act/图层 1.png</file>
+    </qresource>
+    <qresource prefix="/act2">
+        <file>act2/图层 2.png</file>
+        <file>act2/图层 3.png</file>
+        <file>act2/图层 4.png</file>
+        <file>act2/图层 1.png</file>
+    </qresource>
+    <qresource prefix="/witch">
+        <file>witch/图层 1.png</file>
+        <file>witch/图层 2.png</file>
+        <file>witch/图层 3.png</file>
+        <file>witch/图层 4.png</file>
+        <file>witch/图层 5.png</file>
+        <file>witch/图层 6.png</file>
+        <file>witch/图层 7.png</file>
+        <file>witch/图层 8.png</file>
+        <file>witch/图层 9.png</file>
+        <file>witch/图层 10.png</file>
+        <file>witch/图层 11.png</file>
+    </qresource>
+    <qresource prefix="/trans">
+        <file>trans/图层 1.png</file>
+        <file>trans/图层 2.png</file>
+        <file>trans/图层 3.png</file>
+        <file>trans/图层 4.png</file>
+        <file>trans/图层 5.png</file>
+        <file>trans/图层 6.png</file>
+        <file>trans/图层 7.png</file>
+        <file>trans/图层 8.png</file>
+        <file>trans/图层 9.png</file>
+        <file>trans/图层 10.png</file>
+        <file>trans/图层 11.png</file>
+        <file>trans/图层 12.png</file>
+        <file>trans/图层 13.png</file>
+        <file>trans/图层 14.png</file>
+        <file>trans/图层 15.png</file>
+        <file>trans/图层 16.png</file>
+        <file>trans/图层 17.png</file>
+        <file>trans/图层 18.png</file>
+        <file>trans/图层 19.png</file>
+        <file>trans/图层 20.png</file>
+        <file>trans/图层 21.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>title.ico</file>
+    </qresource>
+</RCC>
